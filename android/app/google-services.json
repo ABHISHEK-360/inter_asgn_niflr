@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227737227082",
+    "firebase_url": "https://intern-niflr.firebaseio.com",
+    "project_id": "intern-niflr",
+    "storage_bucket": "intern-niflr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227737227082:android:21ad6b7748c64f7b",
+        "android_client_info": {
+          "package_name": "com.intern_niflr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227737227082-cuoi0i4cnp9kscgsgn3ltevpg5ln66vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgKF1lSTpZv-QcNUqyIUXCl5wzi3yERQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227737227082-cuoi0i4cnp9kscgsgn3ltevpg5ln66vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
